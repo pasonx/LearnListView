@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="myarrays">
+        <item>李宗睿</item>
+        <item>杜江</item>
+        <item>讨论组</item>
+        <item>金瓶</item>
+        <item>一枝梅</item>
+    </string-array>
+</resources>
